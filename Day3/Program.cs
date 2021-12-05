@@ -39,7 +39,7 @@ Console.WriteLine("***********************************************");
 Console.WriteLine();
 Console.WriteLine();
 
-Console.WriteLine("Day2 - Part One");
+Console.WriteLine("Day3 - Part One");
 
 
 ulong oxygenFilter(string[] theArray, int position)
